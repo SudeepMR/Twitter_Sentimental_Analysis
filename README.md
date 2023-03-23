@@ -13,7 +13,7 @@ The data contain information about many Tweets in the form of text and their typ
 Tweets: Data is in the form of a sentence written by individuals.
 category: Numeric(0: Neutral, -1: Negative, 1: Positive) (It is our dependent variable)
 
-# Tasks to be performed:
+# Steps and Tasks to be performed:
 + Read the Data from the Given excel file.
 + Change our dependent variable to categorical. ( 0 to “Neutral,” -1 to “Negative”, 1 to “Positive”)
 + Do Missing value analysis and drop all null/missing values
